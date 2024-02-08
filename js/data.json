@@ -1,0 +1,53 @@
+ [
+    { 
+     "id": 1,
+     "nombre": "harina",
+     "precio":50,
+    "img":
+    "https://t2.uc.ltmcdn.com/es/posts/8/7/6/cual_es_la_diferencia_entre_la_harina_0000_y_la_leudante_30678_orig.jpg",
+    "cantidad": 1
+    },
+    { 
+        "id": 2,
+        "nombre": "galletitas",
+        "precio":60,
+        "img": "https://masonlineprod.vtexassets.com/arquivos/ids/259888/Galletitas-Terrabusi-Variedad-Clasica-390g-1-30882.jpg?v=638005486017630000",
+        "cantidad": 1
+    },
+    { 
+        "id": 3,
+        "nombre": "cerveza",
+        "precio":80,
+        "img": "https://assets-global.website-files.com/5f4f67c5950db17954dd4f52/61fc0c76c6f09009b71af7e1_Las%20cervezas%20m%C3%A1s%20populares%20del%20mundo.jpg",
+        "cantidad": 1
+    },
+    { 
+        "id": 4,
+        "nombre": "leche",
+        "precio":55,
+        "img": "https://st2.depositphotos.com/1001877/12383/i/950/depositphotos_123834700-stock-photo-milk-carton-packs-isolated-on.jpg",
+        "cantidad": 1
+    },
+    { 
+        "id": 5,
+        "nombre": "gaseosa",
+        "precio":70,
+        "img": "https://villacatalina.com.ar/wp-content/uploads/2023/04/AdobeStock_279492434_Editorial_Use_Only.jpeg.jpg",
+        "cantidad": 1
+    },
+    { 
+        "id": 6,
+        "nombre": "huevos",
+        "precio":30,
+        "img": "https://distribuidoramagdalena.cl/cdn/shop/products/huevos-de-campo-lacteos-y-huevos-granja-magdalena-801438.jpg?v=1682643649&width=2040",
+        "cantidad": 1
+    },
+    { 
+        "id": 7,
+        "nombre": "queso",
+        "precio":30,
+        "img": "https://www.clarin.com/2021/03/24/6su1XbrJZ_1200x0__1.jpg",
+        "cantidad": 1
+    }
+    
+]
